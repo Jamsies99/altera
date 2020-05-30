@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/altera/static/css/main.5f361e03.chunk.css",
+    "main.js": "/altera/static/js/main.098e4d95.chunk.js",
+    "main.js.map": "/altera/static/js/main.098e4d95.chunk.js.map",
+    "runtime-main.js": "/altera/static/js/runtime-main.b39a9f8a.js",
+    "runtime-main.js.map": "/altera/static/js/runtime-main.b39a9f8a.js.map",
+    "static/js/2.a6313da8.chunk.js": "/altera/static/js/2.a6313da8.chunk.js",
+    "static/js/2.a6313da8.chunk.js.map": "/altera/static/js/2.a6313da8.chunk.js.map",
+    "index.html": "/altera/index.html",
+    "precache-manifest.b19d474e3480ece9b7540c5f97fdab87.js": "/altera/precache-manifest.b19d474e3480ece9b7540c5f97fdab87.js",
+    "service-worker.js": "/altera/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/altera/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a6313da8.chunk.js.LICENSE.txt": "/altera/static/js/2.a6313da8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/altera/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b39a9f8a.js",
+    "static/js/2.a6313da8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.098e4d95.chunk.js"
+  ]
+}
